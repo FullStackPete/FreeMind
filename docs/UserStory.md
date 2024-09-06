@@ -13,4 +13,4 @@
  3. As a user I want to see weather for the upcoming 7 days;
  4. As a user I want to to be able to setup a timer 
     4.1. As a user I want to be able to choose from a couple timer themes;
- 5. As a user I want every color in the app to fit the wallpaper (look into coolors.co).
+ 5. As a user I want every color in the app to fit the wallpaper (look into pywal).
