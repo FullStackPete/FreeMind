@@ -2,8 +2,6 @@ import { getContrast } from "./getContrast";
 import { lightenDarkenColor } from "./lightenDarkenColor";
 import type { ThemeElements } from "~/types";
 
-const exampleColor = "#FF425F";
-
 const styleDocument = (name: string, value: string) => {
   document.documentElement.style.setProperty(name, value);
 };
