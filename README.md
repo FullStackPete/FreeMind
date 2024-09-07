@@ -125,12 +125,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## UserStory
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-See the [open issues](https://github.com/FullStackPete/FreeMind/issues) for a full list of proposed features (and known issues).
+User story available in docs https://github.com/FullStackPete/FreeMind/blob/main/docs/UserStory.md
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,20 +164,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - psliwa.b@gmail.com@psliwa.b@gmail.com_client.com
+Email me at psliwa.b@gmail.com
 
 Project Link: [https://github.com/FullStackPete/FreeMind](https://github.com/FullStackPete/FreeMind)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
