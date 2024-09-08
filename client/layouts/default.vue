@@ -2,6 +2,6 @@
 import { initialSetup } from '~/composables/InitialSetup';
 </script>
 <template>
-    <Navbar v-if="initialSetup.setupComplete" />
+    <Navbar v-if="initialSetup.setupStep===3" />
     <slot />
 </template>

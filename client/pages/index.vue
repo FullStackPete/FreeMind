@@ -3,7 +3,6 @@ import { initialSetup } from "#imports";
 </script>
 <template>
   <div>
-    <WelcomeForm v-if="initialSetup.setupComplete===false" />
-    <ColorForm :hidden="initialSetup.setupComplete" />
+    <WelcomeSetup v-if="initialSetup.setupStep!==3" />
   </div>
 </template>

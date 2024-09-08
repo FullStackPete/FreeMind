@@ -13,9 +13,9 @@ module.exports = {
   },
   plugins: [],
   safelist: [
-    "translate-x-[70vw]",
-    "-translate-x-[70vw]",
-    "translate-y-[70vh]",
-    "-translate-y-[70vh]",
+    "translate-x-[100vw]",
+    "-translate-x-[100vw]",
+    "translate-y-[100vh]",
+    "-translate-y-[100vh]",
   ],
 };

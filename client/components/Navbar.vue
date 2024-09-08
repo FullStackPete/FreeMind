@@ -1,8 +1,7 @@
 <template>
   <div class="w-full flex self-center justify-center">
     <Toolbar
-      style="border-radius: 3rem; padding: 1rem 1rem 1rem 1.5rem"
-      class="fixed z-20 w-3/5"
+      class="!p-4 mt-4 !rounded-lg fixed z-20 w-3/5"
     >
       <template #start>
         <div class="flex items-center gap-2">
@@ -19,6 +18,9 @@
           <Button label="Files" text plain />
           <Button label="Edit" text plain />
           <Button label="View" text plain />
+          <Button>Color check</Button>
+
+          <Button severity="contrast">Secondary</Button>
         </div>
       </template>
 

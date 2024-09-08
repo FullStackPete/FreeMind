@@ -7,7 +7,7 @@ export type ThemeElements = {
 };
 
 export type InitialSetupType = {
-name:string,
-wallpaper:string,
-setupComplete:boolean
-}
+  name: string;
+  wallpaper: string;
+  setupStep: 0 | 1 | 2 | 3;
+};

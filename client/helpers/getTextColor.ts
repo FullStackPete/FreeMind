@@ -1,4 +1,4 @@
-export function getContrast(backgroundColor: string): "#000000" | "#FFFFFF" {
+export function getTextColor(backgroundColor: string): "#000000" | "#FFFFFF" {
   const luminance = computeLuminance(backgroundColor);
   return luminance > 0.179 ? "#000000" : "#FFFFFF";
 }
